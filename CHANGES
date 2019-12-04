@@ -1,14 +1,5 @@
-2.0.0 2019-12-04
-  - 2.0
-2.0.0	2018-04-09
+2.0.0 2018-04-09
+  - Renamed dataset name to same as OpenfMRI
 
-	- Renamed dataset name to same as OpenfMRI
-
-1.0.0	2018-04-09
-
-	- Initial publish
-
-Revision history for OpenfMRI dataset ds000236
-
-1.0.0 2019-12-04
-  - 1.0
+1.0.0 2017-07-10
+  - Initial release

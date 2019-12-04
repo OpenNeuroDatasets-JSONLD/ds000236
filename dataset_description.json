@@ -11,5 +11,9 @@
     ],
     "Acknowledgements": "Tiejun Zhao",
     "HowToAcknowledge": "We  are  grateful  to  Tiejun  Zhao  from  Siemens  Healthcare  for  his  valuable  help  in  the  implementation of the online reconstruction algorithm of the sequence for the Siemens platform.\n\nThis data was obtained from the OpenfMRI database. Its accession number is ds000236.",
-    "Funding": "NIH grants no. P41EB015893 and MH080729, and NSFC grant no. 81471644, and Hangzhou Innovation Seed Fund"
+    "Funding": [
+        "NIH grants no. P41EB015893 and MH080729",
+        "NSFC grant no. 81471644",
+        "Hangzhou Innovation Seed Fund"
+    ]
 }
